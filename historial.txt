@@ -1,0 +1,18 @@
+head
+
+Aqui
+--------
+header
+
+estamos 
+---------
+body
+
+aprendiendo
+
+------------
+a usar
+------------
+footer
+git y github
+--------
