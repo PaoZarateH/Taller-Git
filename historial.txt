@@ -4,15 +4,16 @@ Aqui
 --------
 header
 
-estamos 
+vamos a 
 ---------
 body
 
-aprendiendo
+aprender 
 
 ------------
 a usar
 ------------
 footer
+
 git y github
 --------
