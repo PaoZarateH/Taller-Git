@@ -1,19 +1,23 @@
 head
 
-Aqui
+--------
 --------
 header
 
-vamos a 
+--------- 
 ---------
 body
 
-aprender 
+---------
+Aside 1 
+------------
 
+----------
+Aside 2
 ------------
-a usar
-------------
+
 footer
 
-git y github
+git 
+github
 --------
